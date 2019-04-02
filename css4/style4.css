@@ -1,0 +1,42 @@
+body
+{
+   background-color:powderblue;
+   text-align:center;
+   margin:0;
+   padding:0;
+
+ }
+
+  .h
+ {
+    text-align:center;
+    margin-bottom: auto;
+   position:relative;
+   top:75px;
+       font-family:'Merriweather',sans-serif;
+            }
+  .p
+  {
+    text-align:center;
+    position:relative;
+    top:250px;
+
+  }
+   .pro
+   {
+      text-decoration:underline;
+      display:inline;
+    }
+    .small
+    {
+      position:absolute;
+         left:1000px;
+
+    }
+    .large
+    {
+  position:absolute;
+  top:600px;
+  right:900px;;
+
+   }
